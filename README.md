@@ -1,1 +1,1 @@
-# GoMart
+# GoMart Capstone Project
